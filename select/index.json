@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Nine Point Eight",
+  "base_artist": "Mili",
+  "createdAt": "2026-02-28T16:06:09.445256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nine Point Eight",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/01_Nine_Point_Eight_Mili.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nine Point Eight -special edit-",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/02_Nine_Point_Eight_-special_edit-_Mili.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nine Point Eight -special edit-",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/03_Nine_Point_Eight_-special_edit-_Mili.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nine Point Eight -special edit- (Vocal+Piano Unplugged)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/04_Nine_Point_Eight_-special_edit-_(Vocal+Piano_Unplugged)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nine Point Eight",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/05_Nine_Point_Eight_Mili.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nine Point Eight",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/06_Nine_Point_Eight_Mili.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nine Point Eight -special edit- (instrumental)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/07_Nine_Point_Eight_-special_edit-_(instrumental)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nine Point Eight",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/08_Nine_Point_Eight_Mili.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nine Point Eight",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/09_Nine_Point_Eight_Mili.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nine Point Five",
+      "artist": "Talib Kweli",
+      "has_synced": false,
+      "path": "select/10_Nine_Point_Five_Talib_Kweli.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nine Point Five",
+      "artist": "Talib Kweli & Styles P feat. Sheek Louch, Jadakiss & NIKO IS",
+      "has_synced": false,
+      "path": "select/11_Nine_Point_Five_Talib_Kweli_&_Styles_P_feat._Sheek_Louch,_Jadakiss_&_NIKO_IS.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nine Point Five",
+      "artist": "Talib Kweli & Styles P",
+      "has_synced": false,
+      "path": "select/12_Nine_Point_Five_Talib_Kweli_&_Styles_P.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nine Point Five (feat. Sheek Louch, Jadakiss, and Niko Is)",
+      "artist": "Talib Kweli & Styles P",
+      "has_synced": false,
+      "path": "select/13_Nine_Point_Five_(feat._Sheek_Louch,_Jadakiss,_and_Niko_Is)_Talib_Kweli_&_Styles_P.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "nine point eight",
+      "artist": "mili",
+      "has_synced": false,
+      "path": "select/pl_01_nine_point_eight_mili.txt"
+    }
+  ]
+}
